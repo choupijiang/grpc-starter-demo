@@ -19,7 +19,7 @@
         <io.grpc.version>1.23.0</io.grpc.version>
         <os-maven-plugin.version>1.6.2</os-maven-plugin.version>
         <protobuf-maven-plugin.version>0.6.1</protobuf-maven-plugin.version>
-        <grpc-starter-version>3.4.1</grpc-starter-version>
+        <grpc-starter-version>4.2.1</grpc-starter-version>
     </properties>
 
     <dependencies>
